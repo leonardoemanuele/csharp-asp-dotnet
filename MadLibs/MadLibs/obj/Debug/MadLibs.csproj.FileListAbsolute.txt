@@ -1,0 +1,6 @@
+/Users/leonardoemanuele/C#, .NET/MadLibs/MadLibs/bin/Debug/MadLibs.exe
+/Users/leonardoemanuele/C#, .NET/MadLibs/MadLibs/bin/Debug/MadLibs.pdb
+/Users/leonardoemanuele/C#, .NET/MadLibs/MadLibs/obj/Debug/MadLibs.csproj.AssemblyReference.cache
+/Users/leonardoemanuele/C#, .NET/MadLibs/MadLibs/obj/Debug/MadLibs.csproj.CoreCompileInputs.cache
+/Users/leonardoemanuele/C#, .NET/MadLibs/MadLibs/obj/Debug/MadLibs.exe
+/Users/leonardoemanuele/C#, .NET/MadLibs/MadLibs/obj/Debug/MadLibs.pdb

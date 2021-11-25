@@ -1,0 +1,6 @@
+/Users/leonardoemanuele/C#, .NET/MoneyMaker/MoneyMaker/obj/Debug/MoneyMaker.csproj.AssemblyReference.cache
+/Users/leonardoemanuele/C#, .NET/MoneyMaker/MoneyMaker/obj/Debug/MoneyMaker.csproj.CoreCompileInputs.cache
+/Users/leonardoemanuele/C#, .NET/MoneyMaker/MoneyMaker/bin/Debug/MoneyMaker.exe
+/Users/leonardoemanuele/C#, .NET/MoneyMaker/MoneyMaker/bin/Debug/MoneyMaker.pdb
+/Users/leonardoemanuele/C#, .NET/MoneyMaker/MoneyMaker/obj/Debug/MoneyMaker.exe
+/Users/leonardoemanuele/C#, .NET/MoneyMaker/MoneyMaker/obj/Debug/MoneyMaker.pdb

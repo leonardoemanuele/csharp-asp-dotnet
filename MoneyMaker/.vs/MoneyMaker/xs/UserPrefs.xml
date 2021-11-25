@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BF5ADC5A-2921-44B5-93FA-D628E9AAC41C}|Default">
+  <MonoDevelop.Ide.ItemProperties.MoneyMaker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MoneyMaker/Program.cs">
+    <Files>
+      <File FileName="MoneyMaker/Program.cs" Line="12" Column="66" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MoneyMaker" expanded="True">
+            <Node name="MoneyMaker" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

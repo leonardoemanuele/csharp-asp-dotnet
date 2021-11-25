@@ -1,0 +1,14 @@
+/Users/leonardoemanuele/C#, .NET/MyApps/MyApps/bin/Debug/netcoreapp3.1/MyApps.deps.json
+/Users/leonardoemanuele/C#, .NET/MyApps/MyApps/bin/Debug/netcoreapp3.1/MyApps.runtimeconfig.json
+/Users/leonardoemanuele/C#, .NET/MyApps/MyApps/bin/Debug/netcoreapp3.1/MyApps.runtimeconfig.dev.json
+/Users/leonardoemanuele/C#, .NET/MyApps/MyApps/bin/Debug/netcoreapp3.1/MyApps.dll
+/Users/leonardoemanuele/C#, .NET/MyApps/MyApps/bin/Debug/netcoreapp3.1/MyApps.pdb
+/Users/leonardoemanuele/C#, .NET/MyApps/MyApps/obj/Debug/netcoreapp3.1/MyApps.csproj.AssemblyReference.cache
+/Users/leonardoemanuele/C#, .NET/MyApps/MyApps/obj/Debug/netcoreapp3.1/MyApps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardoemanuele/C#, .NET/MyApps/MyApps/obj/Debug/netcoreapp3.1/MyApps.AssemblyInfoInputs.cache
+/Users/leonardoemanuele/C#, .NET/MyApps/MyApps/obj/Debug/netcoreapp3.1/MyApps.AssemblyInfo.cs
+/Users/leonardoemanuele/C#, .NET/MyApps/MyApps/obj/Debug/netcoreapp3.1/MyApps.csproj.CoreCompileInputs.cache
+/Users/leonardoemanuele/C#, .NET/MyApps/MyApps/obj/Debug/netcoreapp3.1/MyApps.dll
+/Users/leonardoemanuele/C#, .NET/MyApps/MyApps/obj/Debug/netcoreapp3.1/MyApps.pdb
+/Users/leonardoemanuele/C#, .NET/MyApps/MyApps/obj/Debug/netcoreapp3.1/MyApps.genruntimeconfig.cache
+/Users/leonardoemanuele/C#, .NET/MyApps/MyApps/bin/Debug/netcoreapp3.1/MyApps

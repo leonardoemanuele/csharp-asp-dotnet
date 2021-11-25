@@ -1,0 +1,15 @@
+/Users/leonardoemanuele/C#, .NET/CLists/CLists/obj/Debug/net5.0/CLists.csproj.AssemblyReference.cache
+/Users/leonardoemanuele/C#, .NET/CLists/CLists/obj/Debug/net5.0/CLists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardoemanuele/C#, .NET/CLists/CLists/obj/Debug/net5.0/CLists.AssemblyInfoInputs.cache
+/Users/leonardoemanuele/C#, .NET/CLists/CLists/obj/Debug/net5.0/CLists.AssemblyInfo.cs
+/Users/leonardoemanuele/C#, .NET/CLists/CLists/obj/Debug/net5.0/CLists.csproj.CoreCompileInputs.cache
+/Users/leonardoemanuele/C#, .NET/CLists/CLists/bin/Debug/net5.0/CLists.deps.json
+/Users/leonardoemanuele/C#, .NET/CLists/CLists/bin/Debug/net5.0/CLists.runtimeconfig.json
+/Users/leonardoemanuele/C#, .NET/CLists/CLists/bin/Debug/net5.0/CLists.runtimeconfig.dev.json
+/Users/leonardoemanuele/C#, .NET/CLists/CLists/bin/Debug/net5.0/CLists.dll
+/Users/leonardoemanuele/C#, .NET/CLists/CLists/bin/Debug/net5.0/ref/CLists.dll
+/Users/leonardoemanuele/C#, .NET/CLists/CLists/bin/Debug/net5.0/CLists.pdb
+/Users/leonardoemanuele/C#, .NET/CLists/CLists/obj/Debug/net5.0/CLists.dll
+/Users/leonardoemanuele/C#, .NET/CLists/CLists/obj/Debug/net5.0/ref/CLists.dll
+/Users/leonardoemanuele/C#, .NET/CLists/CLists/obj/Debug/net5.0/CLists.pdb
+/Users/leonardoemanuele/C#, .NET/CLists/CLists/obj/Debug/net5.0/CLists.genruntimeconfig.cache

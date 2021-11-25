@@ -1,0 +1,6 @@
+/Users/leonardoemanuele/C#, .NET/ASCIIdventure/ASCIIdventure/obj/Debug/ASCIIdventure.csproj.AssemblyReference.cache
+/Users/leonardoemanuele/C#, .NET/ASCIIdventure/ASCIIdventure/obj/Debug/ASCIIdventure.csproj.CoreCompileInputs.cache
+/Users/leonardoemanuele/C#, .NET/ASCIIdventure/ASCIIdventure/bin/Debug/ASCIIdventure.exe
+/Users/leonardoemanuele/C#, .NET/ASCIIdventure/ASCIIdventure/bin/Debug/ASCIIdventure.pdb
+/Users/leonardoemanuele/C#, .NET/ASCIIdventure/ASCIIdventure/obj/Debug/ASCIIdventure.exe
+/Users/leonardoemanuele/C#, .NET/ASCIIdventure/ASCIIdventure/obj/Debug/ASCIIdventure.pdb

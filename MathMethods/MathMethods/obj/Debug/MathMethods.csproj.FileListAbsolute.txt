@@ -1,0 +1,6 @@
+/Users/leonardoemanuele/C#, .NET/MathMethods/MathMethods/obj/Debug/MathMethods.csproj.AssemblyReference.cache
+/Users/leonardoemanuele/C#, .NET/MathMethods/MathMethods/obj/Debug/MathMethods.csproj.CoreCompileInputs.cache
+/Users/leonardoemanuele/C#, .NET/MathMethods/MathMethods/bin/Debug/MathMethods.exe
+/Users/leonardoemanuele/C#, .NET/MathMethods/MathMethods/bin/Debug/MathMethods.pdb
+/Users/leonardoemanuele/C#, .NET/MathMethods/MathMethods/obj/Debug/MathMethods.exe
+/Users/leonardoemanuele/C#, .NET/MathMethods/MathMethods/obj/Debug/MathMethods.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassForest", "ClassForest\ClassForest.csproj", "{D00302FF-76AA-46FE-AA84-AD6258C10AE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D00302FF-76AA-46FE-AA84-AD6258C10AE3}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{D00302FF-76AA-46FE-AA84-AD6258C10AE3}.Debug|anycpu.Build.0 = Debug|anycpu
+		{D00302FF-76AA-46FE-AA84-AD6258C10AE3}.Release|anycpu.ActiveCfg = Release|anycpu
+		{D00302FF-76AA-46FE-AA84-AD6258C10AE3}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF5CAC13-73D4-4D07-8374-B63105F896CA}
+	EndGlobalSection
+EndGlobal

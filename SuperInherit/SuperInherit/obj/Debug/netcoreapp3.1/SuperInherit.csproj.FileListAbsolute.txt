@@ -1,0 +1,13 @@
+/Users/leonardoemanuele/C#, .NET/SuperInherit/SuperInherit/bin/Debug/netcoreapp3.1/SuperInherit.deps.json
+/Users/leonardoemanuele/C#, .NET/SuperInherit/SuperInherit/bin/Debug/netcoreapp3.1/SuperInherit.runtimeconfig.json
+/Users/leonardoemanuele/C#, .NET/SuperInherit/SuperInherit/bin/Debug/netcoreapp3.1/SuperInherit.runtimeconfig.dev.json
+/Users/leonardoemanuele/C#, .NET/SuperInherit/SuperInherit/bin/Debug/netcoreapp3.1/SuperInherit.dll
+/Users/leonardoemanuele/C#, .NET/SuperInherit/SuperInherit/bin/Debug/netcoreapp3.1/SuperInherit.pdb
+/Users/leonardoemanuele/C#, .NET/SuperInherit/SuperInherit/obj/Debug/netcoreapp3.1/SuperInherit.csproj.AssemblyReference.cache
+/Users/leonardoemanuele/C#, .NET/SuperInherit/SuperInherit/obj/Debug/netcoreapp3.1/SuperInherit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardoemanuele/C#, .NET/SuperInherit/SuperInherit/obj/Debug/netcoreapp3.1/SuperInherit.AssemblyInfoInputs.cache
+/Users/leonardoemanuele/C#, .NET/SuperInherit/SuperInherit/obj/Debug/netcoreapp3.1/SuperInherit.AssemblyInfo.cs
+/Users/leonardoemanuele/C#, .NET/SuperInherit/SuperInherit/obj/Debug/netcoreapp3.1/SuperInherit.csproj.CoreCompileInputs.cache
+/Users/leonardoemanuele/C#, .NET/SuperInherit/SuperInherit/obj/Debug/netcoreapp3.1/SuperInherit.dll
+/Users/leonardoemanuele/C#, .NET/SuperInherit/SuperInherit/obj/Debug/netcoreapp3.1/SuperInherit.pdb
+/Users/leonardoemanuele/C#, .NET/SuperInherit/SuperInherit/obj/Debug/netcoreapp3.1/SuperInherit.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/leonardoemanuele/C#, .NET/hello/bin/Debug/net6.0/hello
+/Users/leonardoemanuele/C#, .NET/hello/bin/Debug/net6.0/hello.deps.json
+/Users/leonardoemanuele/C#, .NET/hello/bin/Debug/net6.0/hello.runtimeconfig.json
+/Users/leonardoemanuele/C#, .NET/hello/bin/Debug/net6.0/hello.dll
+/Users/leonardoemanuele/C#, .NET/hello/bin/Debug/net6.0/ref/hello.dll
+/Users/leonardoemanuele/C#, .NET/hello/bin/Debug/net6.0/hello.pdb
+/Users/leonardoemanuele/C#, .NET/hello/obj/Debug/net6.0/hello.csproj.AssemblyReference.cache
+/Users/leonardoemanuele/C#, .NET/hello/obj/Debug/net6.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardoemanuele/C#, .NET/hello/obj/Debug/net6.0/hello.AssemblyInfoInputs.cache
+/Users/leonardoemanuele/C#, .NET/hello/obj/Debug/net6.0/hello.AssemblyInfo.cs
+/Users/leonardoemanuele/C#, .NET/hello/obj/Debug/net6.0/hello.csproj.CoreCompileInputs.cache
+/Users/leonardoemanuele/C#, .NET/hello/obj/Debug/net6.0/hello.dll
+/Users/leonardoemanuele/C#, .NET/hello/obj/Debug/net6.0/ref/hello.dll
+/Users/leonardoemanuele/C#, .NET/hello/obj/Debug/net6.0/hello.pdb
+/Users/leonardoemanuele/C#, .NET/hello/obj/Debug/net6.0/hello.genruntimeconfig.cache

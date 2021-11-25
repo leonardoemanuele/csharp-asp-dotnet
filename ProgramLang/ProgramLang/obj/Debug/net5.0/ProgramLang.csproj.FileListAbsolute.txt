@@ -1,0 +1,15 @@
+/Users/leonardoemanuele/C#, .NET/ProgramLang/ProgramLang/bin/Debug/net5.0/ProgramLang.deps.json
+/Users/leonardoemanuele/C#, .NET/ProgramLang/ProgramLang/bin/Debug/net5.0/ProgramLang.runtimeconfig.json
+/Users/leonardoemanuele/C#, .NET/ProgramLang/ProgramLang/bin/Debug/net5.0/ProgramLang.runtimeconfig.dev.json
+/Users/leonardoemanuele/C#, .NET/ProgramLang/ProgramLang/bin/Debug/net5.0/ProgramLang.dll
+/Users/leonardoemanuele/C#, .NET/ProgramLang/ProgramLang/bin/Debug/net5.0/ref/ProgramLang.dll
+/Users/leonardoemanuele/C#, .NET/ProgramLang/ProgramLang/bin/Debug/net5.0/ProgramLang.pdb
+/Users/leonardoemanuele/C#, .NET/ProgramLang/ProgramLang/obj/Debug/net5.0/ProgramLang.csproj.AssemblyReference.cache
+/Users/leonardoemanuele/C#, .NET/ProgramLang/ProgramLang/obj/Debug/net5.0/ProgramLang.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardoemanuele/C#, .NET/ProgramLang/ProgramLang/obj/Debug/net5.0/ProgramLang.AssemblyInfoInputs.cache
+/Users/leonardoemanuele/C#, .NET/ProgramLang/ProgramLang/obj/Debug/net5.0/ProgramLang.AssemblyInfo.cs
+/Users/leonardoemanuele/C#, .NET/ProgramLang/ProgramLang/obj/Debug/net5.0/ProgramLang.csproj.CoreCompileInputs.cache
+/Users/leonardoemanuele/C#, .NET/ProgramLang/ProgramLang/obj/Debug/net5.0/ProgramLang.dll
+/Users/leonardoemanuele/C#, .NET/ProgramLang/ProgramLang/obj/Debug/net5.0/ref/ProgramLang.dll
+/Users/leonardoemanuele/C#, .NET/ProgramLang/ProgramLang/obj/Debug/net5.0/ProgramLang.pdb
+/Users/leonardoemanuele/C#, .NET/ProgramLang/ProgramLang/obj/Debug/net5.0/ProgramLang.genruntimeconfig.cache

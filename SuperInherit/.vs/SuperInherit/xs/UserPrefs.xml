@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{9BB63251-00BA-4CD7-995A-7F95AEDF716C}|Default">
+  <MonoDevelop.Ide.ItemProperties.SuperInherit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SuperInherit/Archmage.cs">
+    <Files>
+      <File FileName="SuperInherit/Program.cs" Line="37" Column="35" />
+      <File FileName="SuperInherit/Storm.cs" Line="20" Column="16" />
+      <File FileName="SuperInherit/Pupil.cs" Line="15" Column="59" />
+      <File FileName="SuperInherit/Mage.cs" Line="11" Column="23" />
+      <File FileName="SuperInherit/Archmage.cs" Line="5" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SuperInherit" expanded="True">
+            <Node name="SuperInherit" expanded="True">
+              <Node name="Archmage.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

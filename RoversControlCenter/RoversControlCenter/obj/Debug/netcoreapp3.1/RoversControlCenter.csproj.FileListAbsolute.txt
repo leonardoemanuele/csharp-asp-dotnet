@@ -1,0 +1,13 @@
+/Users/leonardoemanuele/C#, .NET/RoversControlCenter/RoversControlCenter/obj/Debug/netcoreapp3.1/RoversControlCenter.csproj.AssemblyReference.cache
+/Users/leonardoemanuele/C#, .NET/RoversControlCenter/RoversControlCenter/obj/Debug/netcoreapp3.1/RoversControlCenter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardoemanuele/C#, .NET/RoversControlCenter/RoversControlCenter/obj/Debug/netcoreapp3.1/RoversControlCenter.AssemblyInfoInputs.cache
+/Users/leonardoemanuele/C#, .NET/RoversControlCenter/RoversControlCenter/obj/Debug/netcoreapp3.1/RoversControlCenter.AssemblyInfo.cs
+/Users/leonardoemanuele/C#, .NET/RoversControlCenter/RoversControlCenter/obj/Debug/netcoreapp3.1/RoversControlCenter.csproj.CoreCompileInputs.cache
+/Users/leonardoemanuele/C#, .NET/RoversControlCenter/RoversControlCenter/bin/Debug/netcoreapp3.1/RoversControlCenter.deps.json
+/Users/leonardoemanuele/C#, .NET/RoversControlCenter/RoversControlCenter/bin/Debug/netcoreapp3.1/RoversControlCenter.runtimeconfig.json
+/Users/leonardoemanuele/C#, .NET/RoversControlCenter/RoversControlCenter/bin/Debug/netcoreapp3.1/RoversControlCenter.runtimeconfig.dev.json
+/Users/leonardoemanuele/C#, .NET/RoversControlCenter/RoversControlCenter/bin/Debug/netcoreapp3.1/RoversControlCenter.dll
+/Users/leonardoemanuele/C#, .NET/RoversControlCenter/RoversControlCenter/bin/Debug/netcoreapp3.1/RoversControlCenter.pdb
+/Users/leonardoemanuele/C#, .NET/RoversControlCenter/RoversControlCenter/obj/Debug/netcoreapp3.1/RoversControlCenter.dll
+/Users/leonardoemanuele/C#, .NET/RoversControlCenter/RoversControlCenter/obj/Debug/netcoreapp3.1/RoversControlCenter.pdb
+/Users/leonardoemanuele/C#, .NET/RoversControlCenter/RoversControlCenter/obj/Debug/netcoreapp3.1/RoversControlCenter.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{197D5A76-5965-4B6A-93DB-CE19DA74C5DD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RoversControlCenter/MoonRover.cs">
+    <Files>
+      <File FileName="RoversControlCenter/Program.cs" Line="18" Column="28" />
+      <File FileName="RoversControlCenter/IDirectable.cs" Line="1" Column="1" />
+      <File FileName="RoversControlCenter/Rover.cs" Line="28" Column="16" />
+      <File FileName="RoversControlCenter/MoonRover.cs" Line="31" Column="12" />
+      <File FileName="RoversControlCenter/MarsRover.cs" Line="30" Column="12" />
+      <File FileName="RoversControlCenter/Satellite.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RoversControlCenter" expanded="True">
+            <Node name="RoversControlCenter" expanded="True">
+              <Node name="MoonRover.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RoversControlCenter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

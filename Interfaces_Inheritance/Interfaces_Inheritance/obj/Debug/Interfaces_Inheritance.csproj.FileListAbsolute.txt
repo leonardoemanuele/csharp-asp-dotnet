@@ -1,0 +1,6 @@
+/Users/leonardoemanuele/C#, .NET/Interfaces_Inheritance/Interfaces_Inheritance/bin/Debug/Interfaces_Inheritance.exe
+/Users/leonardoemanuele/C#, .NET/Interfaces_Inheritance/Interfaces_Inheritance/bin/Debug/Interfaces_Inheritance.pdb
+/Users/leonardoemanuele/C#, .NET/Interfaces_Inheritance/Interfaces_Inheritance/obj/Debug/Interfaces_Inheritance.csproj.AssemblyReference.cache
+/Users/leonardoemanuele/C#, .NET/Interfaces_Inheritance/Interfaces_Inheritance/obj/Debug/Interfaces_Inheritance.csproj.CoreCompileInputs.cache
+/Users/leonardoemanuele/C#, .NET/Interfaces_Inheritance/Interfaces_Inheritance/obj/Debug/Interfaces_Inheritance.exe
+/Users/leonardoemanuele/C#, .NET/Interfaces_Inheritance/Interfaces_Inheritance/obj/Debug/Interfaces_Inheritance.pdb

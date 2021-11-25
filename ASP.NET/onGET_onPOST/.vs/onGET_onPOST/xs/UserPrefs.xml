@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{48CE6998-4368-424E-9B93-FB45ABF7C53D}|onGET_onPOST">
+  <MonoDevelop.Ide.ItemProperties.Blog PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="onGET_onPOST/Pages/Index.cshtml.cs">
+    <Files>
+      <File FileName="onGET_onPOST/Pages/Index.cshtml.cs" Line="35" Column="37" />
+      <File FileName="onGET_onPOST/Pages/Index.cshtml" />
+      <File FileName="onGET_onPOST/Pages/Shared/_Layout.cshtml" />
+      <File FileName="onGET_onPOST/Pages/Archive.cshtml" />
+      <File FileName="onGET_onPOST/Pages/Archive.cshtml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="onGET_onPOST" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

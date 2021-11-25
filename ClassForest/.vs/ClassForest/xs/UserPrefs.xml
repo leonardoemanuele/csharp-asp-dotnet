@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{D00302FF-76AA-46FE-AA84-AD6258C10AE3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassForest/Properties/Forest.cs">
+    <Files>
+      <File FileName="ClassForest/Program.cs" Line="39" Column="71" />
+      <File FileName="ClassForest/Properties/Forest.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassForest" expanded="True">
+            <Node name="ClassForest" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="Forest.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ClassForest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

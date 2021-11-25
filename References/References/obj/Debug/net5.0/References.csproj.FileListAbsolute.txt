@@ -1,0 +1,15 @@
+/Users/leonardoemanuele/C#, .NET/References/References/obj/Debug/net5.0/References.csproj.AssemblyReference.cache
+/Users/leonardoemanuele/C#, .NET/References/References/obj/Debug/net5.0/References.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardoemanuele/C#, .NET/References/References/obj/Debug/net5.0/References.AssemblyInfoInputs.cache
+/Users/leonardoemanuele/C#, .NET/References/References/obj/Debug/net5.0/References.AssemblyInfo.cs
+/Users/leonardoemanuele/C#, .NET/References/References/obj/Debug/net5.0/References.csproj.CoreCompileInputs.cache
+/Users/leonardoemanuele/C#, .NET/References/References/bin/Debug/net5.0/References.deps.json
+/Users/leonardoemanuele/C#, .NET/References/References/bin/Debug/net5.0/References.runtimeconfig.json
+/Users/leonardoemanuele/C#, .NET/References/References/bin/Debug/net5.0/References.runtimeconfig.dev.json
+/Users/leonardoemanuele/C#, .NET/References/References/bin/Debug/net5.0/References.dll
+/Users/leonardoemanuele/C#, .NET/References/References/bin/Debug/net5.0/ref/References.dll
+/Users/leonardoemanuele/C#, .NET/References/References/bin/Debug/net5.0/References.pdb
+/Users/leonardoemanuele/C#, .NET/References/References/obj/Debug/net5.0/References.dll
+/Users/leonardoemanuele/C#, .NET/References/References/obj/Debug/net5.0/ref/References.dll
+/Users/leonardoemanuele/C#, .NET/References/References/obj/Debug/net5.0/References.pdb
+/Users/leonardoemanuele/C#, .NET/References/References/obj/Debug/net5.0/References.genruntimeconfig.cache

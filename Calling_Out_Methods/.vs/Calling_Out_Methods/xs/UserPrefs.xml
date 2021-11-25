@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B5631ACD-F1FA-49E7-8E4D-B2DCD931E56C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Calling__Out__Methods FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calling_Out_Methods/Program.cs">
+    <Files>
+      <File FileName="Calling_Out_Methods/Program.cs" Line="42" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Calling_Out_Methods" expanded="True">
+            <Node name="Calling_Out_Methods" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

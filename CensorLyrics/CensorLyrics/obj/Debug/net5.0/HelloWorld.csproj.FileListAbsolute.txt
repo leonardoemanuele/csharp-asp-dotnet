@@ -1,0 +1,15 @@
+/Users/leonardoemanuele/C#, .NET/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/Users/leonardoemanuele/C#, .NET/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/Users/leonardoemanuele/C#, .NET/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/Users/leonardoemanuele/C#, .NET/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/Users/leonardoemanuele/C#, .NET/HelloWorld/HelloWorld/bin/Debug/net5.0/ref/HelloWorld.dll
+/Users/leonardoemanuele/C#, .NET/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/Users/leonardoemanuele/C#, .NET/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/leonardoemanuele/C#, .NET/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardoemanuele/C#, .NET/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/leonardoemanuele/C#, .NET/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/Users/leonardoemanuele/C#, .NET/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/leonardoemanuele/C#, .NET/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/Users/leonardoemanuele/C#, .NET/HelloWorld/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/Users/leonardoemanuele/C#, .NET/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/Users/leonardoemanuele/C#, .NET/HelloWorld/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache

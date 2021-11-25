@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{258E3761-03E0-4856-BCED-B1CC03ABA0D1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProgramLang/Language.cs">
+    <Files>
+      <File FileName="ProgramLang/Program.cs" Line="12" Column="1" />
+      <File FileName="ProgramLang/Language.cs" Line="41" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProgramLang" expanded="True">
+            <Node name="ProgramLang" expanded="True">
+              <Node name="Language.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ProgramLang PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{830552DF-AECC-4204-8287-563AD6FB64B9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interfaces_Inheritance/Properties/Vehicle.cs">
+    <Files>
+      <File FileName="Interfaces_Inheritance/Program.cs" Line="13" Column="127" />
+      <File FileName="Interfaces_Inheritance/Properties/Vehicle.cs" Line="8" Column="1" />
+      <File FileName="Interfaces_Inheritance/Properties/IAutomobile.cs" />
+      <File FileName="Interfaces_Inheritance/Properties/Sedan.cs" Line="21" Column="65" />
+      <File FileName="Interfaces_Inheritance/Properties/Truck.cs" Line="30" Column="1" />
+      <File FileName="Interfaces_Inheritance/Properties/Bicycle.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Interfaces_Inheritance" expanded="True">
+            <Node name="Interfaces_Inheritance" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="Vehicle.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Interfaces__Inheritance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

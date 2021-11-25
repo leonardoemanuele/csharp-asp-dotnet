@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{1E2A1121-7BAD-4665-A01A-A4C267D4B8EE}|Default">
+  <MonoDevelop.Ide.ItemProperties.ActivityTracker PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ActivityTracker/Pages/Shared/_ProgressCirclePartial.cshtml">
+    <Files>
+      <File FileName="ActivityTracker/Pages/Activity.cshtml" Line="44" Column="33" />
+      <File FileName="ActivityTracker/Pages/Activity.cshtml.cs" />
+      <File FileName="ActivityTracker/Program.cs" />
+      <File FileName="ActivityTracker/Pages/Shared/_ProgressCirclePartial.cshtml" Line="1" Column="1" />
+      <File FileName="ActivityTracker/wwwroot/css/site.css" Line="181" Column="10" />
+      <File FileName="ActivityTracker/Pages/Shared/_ProgressCirclePartialModel.cshtml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ActivityTracker" expanded="True">
+            <Node name="ActivityTracker" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True">
+                  <Node name="_ProgressCirclePartial.cshtml" selected="True" />
+                </Node>
+                <Node name="Activity.cshtml" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

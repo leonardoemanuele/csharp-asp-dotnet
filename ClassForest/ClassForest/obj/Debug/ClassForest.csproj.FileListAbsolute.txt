@@ -1,0 +1,6 @@
+/Users/leonardoemanuele/C#, .NET/ClassForest/ClassForest/bin/Debug/ClassForest.exe
+/Users/leonardoemanuele/C#, .NET/ClassForest/ClassForest/bin/Debug/ClassForest.pdb
+/Users/leonardoemanuele/C#, .NET/ClassForest/ClassForest/obj/Debug/ClassForest.csproj.AssemblyReference.cache
+/Users/leonardoemanuele/C#, .NET/ClassForest/ClassForest/obj/Debug/ClassForest.csproj.CoreCompileInputs.cache
+/Users/leonardoemanuele/C#, .NET/ClassForest/ClassForest/obj/Debug/ClassForest.exe
+/Users/leonardoemanuele/C#, .NET/ClassForest/ClassForest/obj/Debug/ClassForest.pdb

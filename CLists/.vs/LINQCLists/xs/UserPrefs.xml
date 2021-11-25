@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{B766E200-B88C-4F75-9BA6-8F66142A53F0}|Default">
+  <MonoDevelop.Ide.ItemProperties.LINQCLists PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CLists/Program.cs">
+    <Files>
+      <File FileName="CLists/Program.cs" Line="8" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LINQCLists" expanded="True" selected="True">
+            <Node name="LINQCLists" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

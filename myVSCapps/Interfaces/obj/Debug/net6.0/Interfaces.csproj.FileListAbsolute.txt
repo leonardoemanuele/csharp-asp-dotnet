@@ -1,0 +1,15 @@
+/Users/leonardoemanuele/C#, .NET/myVSCapps/Interfaces/bin/Debug/net6.0/Interfaces
+/Users/leonardoemanuele/C#, .NET/myVSCapps/Interfaces/bin/Debug/net6.0/Interfaces.deps.json
+/Users/leonardoemanuele/C#, .NET/myVSCapps/Interfaces/bin/Debug/net6.0/Interfaces.runtimeconfig.json
+/Users/leonardoemanuele/C#, .NET/myVSCapps/Interfaces/bin/Debug/net6.0/Interfaces.dll
+/Users/leonardoemanuele/C#, .NET/myVSCapps/Interfaces/bin/Debug/net6.0/ref/Interfaces.dll
+/Users/leonardoemanuele/C#, .NET/myVSCapps/Interfaces/bin/Debug/net6.0/Interfaces.pdb
+/Users/leonardoemanuele/C#, .NET/myVSCapps/Interfaces/obj/Debug/net6.0/Interfaces.csproj.AssemblyReference.cache
+/Users/leonardoemanuele/C#, .NET/myVSCapps/Interfaces/obj/Debug/net6.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardoemanuele/C#, .NET/myVSCapps/Interfaces/obj/Debug/net6.0/Interfaces.AssemblyInfoInputs.cache
+/Users/leonardoemanuele/C#, .NET/myVSCapps/Interfaces/obj/Debug/net6.0/Interfaces.AssemblyInfo.cs
+/Users/leonardoemanuele/C#, .NET/myVSCapps/Interfaces/obj/Debug/net6.0/Interfaces.csproj.CoreCompileInputs.cache
+/Users/leonardoemanuele/C#, .NET/myVSCapps/Interfaces/obj/Debug/net6.0/Interfaces.dll
+/Users/leonardoemanuele/C#, .NET/myVSCapps/Interfaces/obj/Debug/net6.0/ref/Interfaces.dll
+/Users/leonardoemanuele/C#, .NET/myVSCapps/Interfaces/obj/Debug/net6.0/Interfaces.pdb
+/Users/leonardoemanuele/C#, .NET/myVSCapps/Interfaces/obj/Debug/net6.0/Interfaces.genruntimeconfig.cache
